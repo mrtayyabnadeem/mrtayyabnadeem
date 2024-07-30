@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrtayyabnadeem
-- 👀 I’m interested in Web development 
+- 👀 I’m interested in Node Base Project 
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on web projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me insta @mrtayyabnadeem
 
 <!---
